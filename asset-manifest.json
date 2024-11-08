@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/oskarkent.github.io/robofriends-pwa/static/css/main.36cf4036.css",
+    "main.js": "/oskarkent.github.io/robofriends-pwa/static/js/main.dceb37f9.js",
+    "static/media/SEGA.woff": "/oskarkent.github.io/robofriends-pwa/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/oskarkent.github.io/robofriends-pwa/index.html",
+    "main.36cf4036.css.map": "/oskarkent.github.io/robofriends-pwa/static/css/main.36cf4036.css.map",
+    "main.dceb37f9.js.map": "/oskarkent.github.io/robofriends-pwa/static/js/main.dceb37f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36cf4036.css",
+    "static/js/main.dceb37f9.js"
+  ]
+}
